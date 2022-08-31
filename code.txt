@@ -1,4 +1,8 @@
 hie
 hello everyone 
-my name is code
+my name is Rajat Kumar
+we are learning git and github
+
+
+
 
