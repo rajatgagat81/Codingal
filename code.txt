@@ -1,8 +1,6 @@
 hie
 hello everyone 
-my name is Rajat Kumar
-we are learning git and github
-
-
+my name is Rahul 
+We are learning Git And Github
 
 
